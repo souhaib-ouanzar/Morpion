@@ -28,11 +28,11 @@ Utilisation
 Installation : Clonez le projet et ouvrez-le dans votre IDE Java préféré.
 bash
 Copier le code
-git clone https://github.com/username/TicTacToe.git
+git clone https://github.com/souhaib-ouanzar/TicTacToe.git
 Exécution : Compilez et exécutez TicTacToe.java. Amusez-vous bien !
 Contributions
 Les contributions sont les bienvenues ! Si vous avez des idées d’amélioration ou souhaitez corriger des bugs, n'hésitez pas à faire une pull request.
 
 Auteurs
-Développé par Souhaib Ouanzar
+Développé par Souhaib Ouanzar.
 
