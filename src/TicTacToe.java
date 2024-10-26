@@ -12,7 +12,7 @@ import javax.swing.*;
 
 public class TicTacToe {
     private final int BOARD_WIDTH = 600;
-    private final int BOARD_HEIGHT = 650; // 50px for the text on top and 50px for the restart button
+    private final int BOARD_HEIGHT = 650;
 
     private final JFrame frame = new JFrame("Tic-Tac-Toe");
     private final JLabel textLabel = new JLabel();
